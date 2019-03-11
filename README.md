@@ -1,4 +1,4 @@
-# Meetup-1Demo
+# Meetup-Demo
 Demo OCR code from inauguration meetup 
 
 # Tesseract Installation
